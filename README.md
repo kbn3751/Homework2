@@ -1,1 +1,1 @@
-# Homework2
+# Git and GitHub
